@@ -1,4 +1,4 @@
-# cancer-de-mama
+# Análisis estadístico para el cancer de mama
 Proyecto de semestre para la materia "Estadística" cursada en el semestre 2024-1S. 
 
 Miembros: 
